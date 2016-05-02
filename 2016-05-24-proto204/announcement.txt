@@ -1,5 +1,5 @@
 You are invited to a two-day Software Carpentry course that will take place on
-March 24-25th, 2016  (Tuesday - Wednesday) at PROTO204 in Burres-sur-Yvette,
+May 24-25th, 2016  (Tuesday - Wednesday) at PROTO204 in Burres-sur-Yvette,
 France (Paris metropolitan area).  
 
 Software Carpentry is a programming course for beginners, which covers most
