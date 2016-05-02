@@ -1,16 +1,34 @@
-You are invited to a two-day Software Carpentry course that will take place on March 24-25th, 2016  (Tuesday - Wednesday) at PROTO204 in Burres-sur-Yvette, France (Paris metropolitan area).  
+You are invited to a two-day Software Carpentry course that will take place on
+March 24-25th, 2016  (Tuesday - Wednesday) at PROTO204 in Burres-sur-Yvette,
+France (Paris metropolitan area).  
 
-Software Carpentry is a programming course for beginners, which covers most important skills for everyday use of scientists (automating tasks with the shell, programming in Python, data analysis and visualisation, keeping track of project changes with git).
-The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop. Some prior programming experience, although not required, will be useful.
+Software Carpentry is a programming course for beginners, which covers most
+important skills for everyday use of scientists (automating tasks with the
+shell, programming in Python, data analysis and visualisation, keeping track of
+project changes with git).  The course is aimed at graduate students and other
+researchers. You don't need to have any previous knowledge of the tools that
+will be presented at the workshop. Some prior programming experience, although
+not required, will be useful.
 
-The registration to the course is free, but due to limited space it is mandatory. The teaching language of the course is English (but there will be helpers around that can assist in French).
+The registration to the course is free, but due to limited space it is
+mandatory. The teaching language of the course is English (but there will be
+helpers around that can assist in French).
 
-Registration opens on May, 9th at 9am. More information and registration at: https://paris-swc.github.io/2016-05-24-proto204/
+Registration opens on May, 9th at 9am. More information and registration at:
+https://paris-swc.github.io/2016-05-24-proto204/
 
-The course is organized by computational scientists from the Paris area: Jan Antolik (UNIC, CNRS), Andrew Davison (UNIC, CNRS), Loïc Estève (Pariétal, Inria), Samuel Lelièvre (Math, UPSud), Camille Marini (Telecom ParisTech, CNRS), Marcel Stimberg (Institut de la Vision, UPMC), Bartosz Teleńczuk (UNIC, CNRS), Maria Teleńczuk (Institut de la Vision, UPMC)
+The course is organized by computational scientists from the Paris area: Jan
+Antolik (UNIC, CNRS), Andrew Davison (UNIC, CNRS), Loïc Estève (Pariétal,
+Inria), Samuel Lelièvre (Math, UPSud), Camille Marini (Telecom ParisTech,
+CNRS), Marcel Stimberg (Institut de la Vision, UPMC), Bartosz Teleńczuk (UNIC,
+CNRS), Maria Teleńczuk (Institut de la Vision, UPMC)
 
 About Software Carpentry
 
-Scientists spend more and more time on programming. While techniques for writing software are constantly evolving, only few scientists have been trained to use them. As a result, instead of doing their research, they spend far too much time writing deficient code and reinventing the wheel. This course is a two-day hands-on tutorial tailored to the needs of novice Python programmers or seasoned users of other programming languages. It introduces them to modern standards of scientific software development. http://software-carpentry.org
-
-
+Scientists spend more and more time on programming. While techniques for
+writing software are constantly evolving, only few scientists have been trained
+to use them. As a result, instead of doing their research, they spend far too
+much time writing deficient code and reinventing the wheel. This course is a
+two-day hands-on tutorial tailored to the needs of novice Python programmers or
+seasoned users of other programming languages. It introduces them to modern
+standards of scientific software development. http://software-carpentry.org
