@@ -21,9 +21,10 @@ More information and registration at: https://paris-swc.github.io/2016-05-24-pro
 
 The course is organized by computational scientists from the Paris area: Jan
 Antolik (UNIC, CNRS), Andrew Davison (UNIC, CNRS), Loïc Estève (Pariétal,
-Inria), Samuel Lelièvre (Math, UPSud), Camille Marini (Telecom ParisTech,
-CNRS), Marcel Stimberg (Institut de la Vision, UPMC), Bartosz Teleńczuk (UNIC,
-CNRS), Maria Teleńczuk (Institut de la Vision, UPMC)
+Inria), Eric Bray (LRI, Université Paris-Sud), Konrad Hinsen (CBM, Orléans),
+Samuel Lelièvre (Math, UPSud), Camille Marini (Telecom ParisTech, CNRS), Marcel
+Stimberg (Institut de la Vision, UPMC), Bartosz Teleńczuk (UNIC, CNRS), Maria
+Teleńczuk (Institut de la Vision, UPMC)
 
 About Software Carpentry
 
