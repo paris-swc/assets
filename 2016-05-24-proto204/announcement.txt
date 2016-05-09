@@ -14,7 +14,7 @@ The teaching language of the course is English (but there will be
 helpers around that can assist in French).
 
 The registration to the course is free, but due to limited space it is
-mandatory.  The registration will open on May, 9th at 9am and the seats will be
+mandatory.  The registration will open on May, 11th at 10am and the seats will be
 distributed on first-come-first-serve basis. 
 
 More information and registration at: https://paris-swc.github.io/2016-05-24-proto204/
